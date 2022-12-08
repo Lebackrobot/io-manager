@@ -21,7 +21,7 @@ O código foi organizado seguindo a seguinte arquitetura
 Classe que representa dos dispositivos 
 
 <h3>Process</h3>
-Classe dos Processos, contendo os seguintes atributos: 
+Classe dos Processos
  
 
 <h3>Sheduler</h3>
