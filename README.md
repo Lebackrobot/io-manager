@@ -2,7 +2,7 @@
 
 🔗 https://github.com/Lebackrobot/io-manager
 
-Com o intuito de integrar o sheduler com a probabilidade de processos de requisitar entrata e saída, foi desenvolvido 
+Com o intuito de integrar o sheduler com a probabilidade de processos de requisitar entrada e saída, foi desenvolvido 
 um pequeno "escalonador" no qual processos, agora, tem a probabilidade de requisitar operações de entrada e saída.
 
 ## Arquitetura do Código
